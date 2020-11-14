@@ -1,0 +1,1 @@
+This is a short Jupyter notebook containing (x,y) information for a particular instrument.  The file extracts the data, plots it, and goes through the exercise to determine the best possible fit for the data.
