@@ -1,0 +1,8 @@
+simple script to measure internet speed every hour
+
+packages:
+time
+datetime
+numpy
+tqdm
+speedtest (speedtest-cli)
